@@ -1,0 +1,1 @@
+alert ("VOCE TEM 18 ANOS OU MAIS")
